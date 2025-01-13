@@ -1,9 +1,7 @@
 # 🌟 **Karhabti**
 
 ## 🚀 **Project Description**
-**Karhabti** is an innovative web application designed to assist in decision-making for buying and selling cars.
-Built on a **microservices architecture**, it provides a seamless and efficient user experience,
-allowing users, clients, and administrators to access features tailored to their specific needs.
+**Karhabti** is an innovative web application designed to assist in decision-making for buying and selling cars. Built on a **microservices architecture**, it provides a seamless and efficient user experience, allowing users, clients, and administrators to access features tailored to their specific needs. This project was developed as part of my final-year **bachelor's degree** project at **Dev2vision**, following my two internship experiences during my studies.
 
 ---
 
