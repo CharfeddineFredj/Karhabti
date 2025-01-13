@@ -148,7 +148,8 @@ git clone https://github.com/username/Karhabti.git
 ## 🖼️ **Screenshots**
 
 ### 🏠 Home Page
-![Home Page](./screenshots/homepage.png)
+![image](https://github.com/user-attachments/assets/73f288b1-4cb1-4650-a3e5-431a270aca2f)
+
 
 ### 🏪 Store Interface
 ![Store Interface](./screenshots/store.png)
