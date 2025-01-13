@@ -152,19 +152,24 @@ git clone https://github.com/username/Karhabti.git
 
 
 ### 🏪 Store Interface
-![Store Interface](./screenshots/store.png)
+![image](https://github.com/user-attachments/assets/18f86318-2cce-46a4-a0d0-e44aab1e3528)
+
 
 ### 🏢 Agency Interface
-![Agency Interface](./screenshots/agency.png)
+![image](https://github.com/user-attachments/assets/3228f785-d182-412e-b8bb-a21c78700f7a)
+
 
 ### 🚗 Car Questionnaire Interface
-![Car Questionnaire](./screenshots/questionnaire.png)
+![image](https://github.com/user-attachments/assets/b3bbd1b8-4228-47e7-be5e-9f3fe334f79b)
+
 
 ### 📄 Car Details Interface
-![Car Details](./screenshots/car-details.png)
+![image](https://github.com/user-attachments/assets/547b6b6b-41fe-4366-8517-5af93290fe8c)
+
 
 ### 💬 Chat Interface
-![Chat Interface](./screenshots/chat.png)
+![image](https://github.com/user-attachments/assets/f01929aa-b07c-40d5-8482-478b3cfd777b)
+
 
 ---
 
